@@ -1,0 +1,26 @@
+<annotation>
+	<folder>labelImg</folder>
+	<filename>59.jpg</filename>
+	<path>C:\Users\tarak\OneDrive\Pictures\labelImg\59.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>630</width>
+		<height>630</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>jack of diamonds</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>113</xmin>
+			<ymin>46</ymin>
+			<xmax>526</xmax>
+			<ymax>588</ymax>
+		</bndbox>
+	</object>
+</annotation>

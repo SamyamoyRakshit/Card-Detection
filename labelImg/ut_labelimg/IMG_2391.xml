@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ut_labelimg</folder>
+	<filename>IMG_2391.JPG</filename>
+	<path>C:\Users\tarak\OneDrive\Pictures\labelImg\ut_labelimg\IMG_2391.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>378</width>
+		<height>504</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>nine</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>132</xmin>
+			<ymin>202</ymin>
+			<xmax>265</xmax>
+			<ymax>386</ymax>
+		</bndbox>
+	</object>
+</annotation>
